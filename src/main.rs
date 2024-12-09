@@ -7,31 +7,27 @@ fn main() {
 
 #[allow(dead_code)]
 const WORD: &'static str = r#"
-Once upon a time, in a vibrant forest filled with chirping birds, rustling leaves, and the sound of a bubbling brook,
-lived a hare known for his speed and a tortoise renowned for his perseverance. The hare, a lean and agile creature, often boasted about how he was
-the fastest in the forest. The tortoise, slow but steadfast, listened to these boasts without comment, his calm demeanor unshaken.
-One sunny morning, the hare was in his usual place, holding court among the forest animals. He stood atop a rock, demonstrating
-his impressive sprints between two tall oaks. The crowd cheered, except for the tortoise, who simply smiled and continued munching on a leaf.
-The hare noticed and called out, “What’s so funny, old timer? Surely, you don’t think you could ever beat me in a race!”
-The tortoise replied, “I wasn’t laughing at you, Hare. But since you bring it up, why not prove your speed in a race against me?”
-The forest erupted in laughter. A race between the speedy hare and the plodding tortoise seemed absurd. But the hare, eager to flaunt his superiority, agreed immediately.
-“Fine! Let’s race tomorrow morning. Everyone will see just how foolish your challenge is.Once upon a time, in a vibrant forest filled with chirping birds, rustling leaves, and the sound of a bubbling brook,
-lived a hare known for his speed and a tortoise renowned for his perseverance. The hare, a lean and agile creature, often boasted about how he was
-the fastest in the forest. The tortoise, slow but steadfast, listened to these boasts without comment, his calm demeanor unshaken.
-One sunny morning, the hare was in his usual place, holding court among the forest animals. He stood atop a rock, demonstrating
-his impressive sprints between two tall oaks. The crowd cheered, except for the tortoise, who simply smiled and continued munching on a leaf.
-The hare noticed and called out, “What’s so funny, old timer? Surely, you don’t think you could ever beat me in a race!”
-The tortoise replied, “I wasn’t laughing at you, Hare. But since you bring it up, why not prove your speed in a race against me?”
-The forest erupted in laughter. A race between the speedy hare and the plodding tortoise seemed absurd. But the hare, eager to flaunt his superiority, agreed immediately.
-“Fine! Let’s race tomorrow morning. Everyone will see just how foolish your challenge is.Once upon a time, in a vibrant forest filled with chirping birds, rustling leaves, and the sound of a bubbling brook,
-lived a hare known for his speed and a tortoise renowned for his perseverance. The hare, a lean and agile creature, often boasted about how he was
-the fastest in the forest. The tortoise, slow but steadfast, listened to these boasts without comment, his calm demeanor unshaken.
-One sunny morning, the hare was in his usual place, holding court among the forest animals. He stood atop a rock, demonstrating
-his impressive sprints between two tall oaks. The crowd cheered, except for the tortoise, who simply smiled and continued munching on a leaf.
-The hare noticed and called out, “What’s so funny, old timer? Surely, you don’t think you could ever beat me in a race!”
-The tortoise replied, “I wasn’t laughing at you, Hare. But since you bring it up, why not prove your speed in a race against me?”
-The forest erupted in laughter. A race between the speedy hare and the plodding tortoise seemed absurd. But the hare, eager to flaunt his superiority, agreed immediately.
-“Fine! Let’s race tomorrow morning. Everyone will see just how foolish your challenge is.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, eum? Ipsum nam, quasi ipsam nostrum dolorum repellat nobis
+dolore, obcaecati natus numquam voluptatum consequatur est aliquid tempore repellendus distinctio inventore temporibus 
+unde ullam, aut tenetur. Voluptas, exercitationem! Ab labore in esse quam error, officia ad culpa. Repudiandae veniam 
+dolorem, dolorum nemo magnam nisi illo aliquid corporis suscipit eligendi doloribus fuga explicabo recusandae vel quos
+illum doloremque voluptate, totam earum adipisci officia rem dolore molestiae molestias. Laboriosam, quam quo. 
+Sed deleniti, explicabo, autem blanditiis aut quia eius optio ex debitis odit quidem, sit consequatur quaerat ipsum
+commodi sint officiis voluptas vel. Commodi, soluta. Sit, dolorem autem? Quae dicta voluptate vero fugiat, eligendi
+dignissimos ratione fuga, enim, esse aut harum molestiae officiis? Eius doloribus tenetur accusantium, similique 
+autem itaque aut non deserunt maiores animi nostrum voluptatem, asperiores temporibus aliquid. Voluptate fugiat
+facere quisquam debitis dolore architecto nobis deserunt tempore laborum ipsa nulla sed esse totam distinctio
+neque iste molestiae ut optio, quo perspiciatis, blanditiis minima fugit tempora magni. Omnis dignissimos nam
+dolores repellendus nemo harum ullam repudiandae sunt pariatur, voluptates, laudantium minima quasi autem et
+illo est placeat sequi! Laborum doloribus tempora aliquam officiis iure esse, possimus, porro id nulla,
+officia asperiores vel sint consectetur consequuntur blanditiis recusandae! Tenetur perspiciatis, magnam
+non, consectetur commodi id laboriosam possimus ut earum exercitationem ipsam animi fugiat! Provident modi 
+aliquam eligendi laborum magnam reiciendis quis sed nobis deserunt rerum voluptatibus necessitatibus, dolore
+soluta et. Illum temporibus at repellat odio repudiandae. Placeat neque non nulla! Odio tempore odit sed
+nostrum mollitia architecto reprehenderit eveniet necessitatibus, quo corporis impedit deleniti quis ipsam
+earum ipsum voluptatum in, nulla consequuntur illo. Dolor sit dolorem aliquid officia autem aut voluptate
+velit doloribus labore dolorum, dicta magni vel inventore enim repellat a
+rchitecto veritatis facere quibusdam incidunt alias repudiandae quas similique vitae. Accusantium?
 "#;
 
 #[cfg(test)]
