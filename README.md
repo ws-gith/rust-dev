@@ -16,12 +16,6 @@ Then `cd` in to the directory
 cd rust-dev
 ```
 
-Make sure you're on the nightly build of rust
-
-```
-rustup default nightly
-```
-
 Then run the benchmarks
 
 ```
